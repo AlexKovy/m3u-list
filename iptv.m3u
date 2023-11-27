@@ -1,5 +1,25 @@
 #EXTM3U
-#EXTINF:-1, Channel 1
-http://192.168.245.2:8082/34/index.m3u8?token=da6375d980849850a724c9df362377cfc7cfbc5e-18cef003de012992a831ac6e9298c86b-1619294130-1619283330
-#EXTINF:-1, Channel 2
-http://192.168.245.2:8082/57/index.m3u8?token=0e6313fde70b42f0b4dbeaf36289a605761520ee-05bdd328fc9b030adb08d6cedb89d5b5-1619294156-1619283356
+#EXTINF:-1, НТВ HD
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1, МИР HD
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1, ОТР HD
+https://bl.webcaster.pro/media/playlist/free_98cb399e152ce6623b5d05cda47d88ba/5_2972636396/720p/b441a6aaabf93fada60258f953d60e9e/1701106928.m3u8
+#EXTINF:-1, МИР 24 HD
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1, Неизвестная Россия HD
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Санкт-Петербург
+https://topspb-live2.cdnvideo.ru/Site/tracks-v1a1/mono.m3u8
+#EXTINF:-1, БелРос
+https://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8  
+#EXTINF:-1, Просвещение
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Беларусь 1
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1095381266_b1460000_sleng.m3u8
+#EXTINF:-1, Беларусь 2
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_w1095381266_b1460000_sleng.m3u8
+#EXTINF:-1, Беларусь 24
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w2100605443_b5160000_sleng.m3u8
