@@ -21,5 +21,7 @@ https://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w2100605443_b5160000_sleng.m3u8
 #EXTINF:-1, Беларусь 2
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_w2100605443_b5160000_sleng.m3u8
+#EXTINF:-1, Беларусь 3
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w2100605443_b5160000_sleng.m3u8
 #EXTINF:-1, Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w2100605443_b5160000_sleng.m3u8
