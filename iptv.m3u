@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1, НТВ HD
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Звезда HD
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1, Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1, МИР HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1, ОТР HD
+#EXTINF:-1, ОТР
 https://bl.webcaster.pro/media/playlist/free_98cb399e152ce6623b5d05cda47d88ba/5_2972636396/720p/b441a6aaabf93fada60258f953d60e9e/1701106928.m3u8
 #EXTINF:-1, МИР 24 HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
