@@ -1,12 +1,48 @@
-#EXTM3U
-#EXTINF:-1, НТВ HD
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz,https://iptvx.one/EPG.gz"
+#EXTINF:-1 group-title="Федеральные",Первый HD
+http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD
+http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Звезда
+#EXTINF:-1 group-title="Федеральные",Пятый канал
+http://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
+#EXTINF:-1 group-title="Федеральные",Россия К
+https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
+#EXTINF:-1 group-title="group-title="Федеральные",Россия 24
+https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-id="karusel",Карусель 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-id="otr",ОТР 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-id="tvcentr",ТВ Центр 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Федеральные",Рен ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
+#EXTINF:-1 group-title="Федеральные",СПАС
+https://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/79.png",СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+#EXTINF:-1 group-title="Федеральные",Домашний HD
+http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ3 HD
+https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятница! HD
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1, МИР HD
+#EXTINF:-1 group-title="Федеральные",МИР HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1, ОТР
-https://bl.webcaster.pro/media/playlist/free_98cb399e152ce6623b5d05cda47d88ba/5_2972636396/1080p/b441a6aaabf93fada60258f953d60e9e/1701106928.m3u8
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+#EXTINF:-1 group-title="Федеральные",МузТВ
+https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
+
+
+
 #EXTINF:-1, МИР 24 HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1, Неизвестная Россия
