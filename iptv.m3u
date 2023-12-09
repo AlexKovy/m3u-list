@@ -5,11 +5,13 @@ http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные",Матч ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия К
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
-#EXTINF:-1 group-title="group-title="Федеральные",Россия 24
+#EXTINF:-1 group-title="Федеральные",Россия 24
 https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-id="karusel",Карусель 
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
@@ -61,3 +63,62 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_w21
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w2100605443_b5160000_sleng.m3u8
 #EXTINF:-1, Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w2100605443_b5160000_sleng.m3u8
+
+
+
+#EXTINF:-1 group-title="📽️ BCU",BCU СССР HD
+http://ru.iptv.monster/play/7120/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Action HD
+http://ru.iptv.monster/play/7100/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Catastrophe HD
+http://ru.iptv.monster/play/7101/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Comedy HD
+http://ru.iptv.monster/play/7103/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Cinema HD
+http://ru.iptv.monster/play/7102/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU CINEMA+ HD
+http://ru.iptv.monster/play/7122/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Fantastic HD
+http://ru.iptv.monster/play/7104/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU STARS HD
+http://ru.iptv.monster/play/7123/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU FilMystic HD
+http://ru.iptv.monster/play/7105/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Reality HD
+http://ru.iptv.monster/play/7136/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU History HD
+http://ru.iptv.monster/play/7106/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Kinorating HD
+http://ru.iptv.monster/play/7107/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Marvel
+http://ru.iptv.monster/play/7108/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Premiere HD
+http://ru.iptv.monster/play/7109/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Romantic HD
+http://ru.iptv.monster/play/7110/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Russian HD
+http://ru.iptv.monster/play/7111/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU VHS HD
+http://ru.iptv.monster/play/7112/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU TruMotion HD
+http://ru.iptv.monster/play/7139/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Кинозал Premiere 1 HD
+http://ru.iptv.monster/play/7113/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Кинозал Premiere 2 HD
+http://ru.iptv.monster/play/7114/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Кинозал Premiere 3 HD
+http://ru.iptv.monster/play/7115/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Survival HD
+http://ru.iptv.monster/play/7116/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU СВАТЫ HD
+http://ru.iptv.monster/play/7127/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Ruserial HD
+http://ru.iptv.monster/play/7119/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Cosmo HD
+http://ru.iptv.monster/play/7137/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Criminal HD
+http://ru.iptv.monster/play/7128/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Ultra 4K
+http://ru.iptv.monster/play/7125/5416F3BDBAB456F/video.m3u8
+#EXTINF:-1 group-title="📽️ BCU",BCU Premiere Ultra 4K
+http://ru.iptv.monster/play/7140/5416F3BDBAB456F/video.m3u8
