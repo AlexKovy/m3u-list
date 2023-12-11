@@ -42,6 +42,9 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="Федеральные",МузТВ
 https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://images.vfl.ru/ii/1612467996/743ac094/33219283.png", Суббота! 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=3#parser
 
 #EXTINF:-1 group-title="RT",RT HD
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
@@ -59,7 +62,7 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 
 #EXTINF:-1 group-title="BRICS", TV BRICS RU
-https://rusbrics.mediacdn.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+https://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
 #EXTINF:-1 group-title="BRICS", TV BRICS EN
 https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BRICS", TV BRICS CN
