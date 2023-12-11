@@ -58,10 +58,23 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="RT",RT De
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 
-#EXTINF:-1  group-title="News", МИР 24 HD
+#EXTINF:-1  group-title="BRICS", TV BRICS RU
+https://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
+#EXTINF:-1  group-title="BRICS", TV BRICS EN
+https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1  group-title="BRICS", TV BRICS CN
+https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1  group-title="BRICS", TV BRICS PT
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+
+#EXTINF:-1  group-title="Новости", РБК
+https://e2-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e2&t=oJVW69
+#EXTINF:-1  group-title="Новости", МИР 24 HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="News", Беларусь 24
+#EXTINF:-1 group-title="Новости", Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w2100605443_b5160000_sleng.m3u8
+
+
 
 
 
