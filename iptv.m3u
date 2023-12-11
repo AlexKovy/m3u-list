@@ -1,8 +1,10 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz,https://iptvx.one/EPG.gz"
 #EXTINF:-1 group-title="Федеральные",Первый HD
-http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
+#http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
+https://mhd219.iptv2022.com/p/SXtCK3EOXMHSUWuymvhW6Q,1702528438/streaming/1kanalott/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD
-http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+#http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+https://mhd109.iptv2022.com/p/jytxeOJORCMnR4HjTrFjEw,1702528543/streaming/rossia1ott/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Матч ТВ HD
@@ -18,7 +20,8 @@ https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=3#parser
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-id="otr",ОТР 
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=3#parser
+#http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=3#parser
+https://bl.webcaster.pro/media/playlist/free_43bff04e0ac0bf1a9eb1c15327b61f64/5_2972636396/1080p/3bb5289946b69e6ca9d3281dc1ec0a8b/1702354239.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-id="tvcentr",ТВ Центр 
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=3#parser
