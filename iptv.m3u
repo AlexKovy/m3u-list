@@ -43,10 +43,28 @@ https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="Федеральные",МузТВ
 https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
 
+#EXTINF:-1 group-title="RT",RT HD
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="RT",RT Doc
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="RT",RTД 
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="RT",RT Arab
+https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="RT",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="RT",RT Fr
+https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="RT",RT De
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 
-
-#EXTINF:-1, МИР 24 HD
+#EXTINF:-1  group-title="News", МИР 24 HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="News", Беларусь 24
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w2100605443_b5160000_sleng.m3u8
+
+
+
 #EXTINF:-1, Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Санкт-Петербург
@@ -61,8 +79,7 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w21
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_w2100605443_b5160000_sleng.m3u8
 #EXTINF:-1, Беларусь 3
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w2100605443_b5160000_sleng.m3u8
-#EXTINF:-1, Беларусь 24
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w2100605443_b5160000_sleng.m3u8
+
 
 
 
