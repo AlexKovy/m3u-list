@@ -8,33 +8,34 @@ https://mhd109.iptv2022.com/p/jytxeOJORCMnR4HjTrFjEw,1702528543/streaming/rossia
 #EXTINF:-1 group-title="Федеральные",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Матч ТВ HD
-https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
+#https://mhd140.iptv2022.com/p/x_98pbYb9JDYsMLP3Ap5Zw,1702581254/streaming/matchott/324/5/tracks-v5a1/mono.m3u8
+https://m3u8.video.matchtv.ru/media/playlist/ch_4f5225e22dccdcac85b2629d4a8e5fa5/17_86669241/1080/926743c4d5bfb14231270c9636ea128a/1702408200.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
-http://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
+https://mhd219.iptv2022.com/p/S-AENDKWerbkc02VKkfYng,1702581278/streaming/5kanalott/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия К
-https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
+https://mhd140.iptv2022.com/p/OdplCHYn1vzBl9Pr8gXD6w,1702581306/streaming/rossiak/324/5/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 24
-https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
+https://mhd219.iptv2022.com/p/5XQ26-mjwZ-ubTpxCwE0uA,1702581345/streaming/rossia24nn/324/5/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-id="karusel",Карусель 
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=3#parser
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-id="otr",ОТР 
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
 #http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=3#parser
-https://bl.webcaster.pro/media/playlist/free_43bff04e0ac0bf1a9eb1c15327b61f64/5_2972636396/1080p/3bb5289946b69e6ca9d3281dc1ec0a8b/1702354239.m3u8
+https://bl.webcaster.pro/media/playlist/free_43bff04e0ac0bf1a9eb1c15327b61f64/5_2972636396/1080p/e6931424838575a9219651d97d627c8c/1702408046.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-id="tvcentr",ТВ Центр 
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=3#parser
 #EXTINF:-1 group-title="Федеральные",Рен ТВ HD
-https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
+https://mhd219.iptv2022.com/p/m23420B7no4nK2nCTaUOcA,1702581443/streaming/rentvott/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",СПАС
 https://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/79.png",СТС HD
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+https://mhd219.iptv2022.com/p/OEaG_k9YH9EIU2h7jYwmHw,1702581464/streaming/stsott/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний HD
-http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+https://mhd128.iptv2022.com/p/e4cwCkILRJccJoCfXitlpQ,1702581491/streaming/domashiyott/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3 HD
-https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
+https://mhd128.iptv2022.com/p/n-Vmpb6StAZKhuZagL3pog,1702581550/streaming/pyatnicaott/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятница! HD
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="Федеральные",Звезда
@@ -42,9 +43,9 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Федеральные",МИР HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТНТ HD
-https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+https://mhd128.iptv2022.com/p/LhuO5k8TwzvthHgNND_0cw,1702581658/streaming/tntott/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",МузТВ
-https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
+https://mhd128.iptv2022.com/p/9mip81g90MrjP1_ndTq64w,1702581604/streaming/muztv/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://images.vfl.ru/ii/1612467996/743ac094/33219283.png", Суббота! 
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=3#parser
